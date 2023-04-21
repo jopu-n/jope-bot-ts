@@ -1,0 +1,22 @@
+{
+  "name": "jope-bot",
+  "version": "1.0.0",
+  "description": "A Discord bot",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Johannes Natunen",
+  "license": "ISC",
+  "dependencies": {
+    "@discordjs/opus": "^0.5.3",
+    "@discordjs/voice": "^0.6.0",
+    "@koenie06/discord.js-music": "^1.2.9",
+    "discord.js": "^13.2.0",
+    "emoji.json": "^13.1.0",
+    "ffmpeg-static": "^4.4.0",
+    "libsodium-wrappers": "^0.7.9",
+    "yt-search": "^2.10.2",
+    "ytdl-core": "^4.9.1"
+  }
+}
